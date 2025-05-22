@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.GeoPdfViewer" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>
